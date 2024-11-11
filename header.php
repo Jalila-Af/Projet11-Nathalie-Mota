@@ -45,4 +45,3 @@ if (!defined('ABSPATH')) {
 			</div>
 		</nav>
 	</header>
-

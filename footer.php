@@ -28,5 +28,4 @@ if (!defined('ABSPATH')) {
 <?php wp_footer(); ?>
 
 </body>
-
 </html>
